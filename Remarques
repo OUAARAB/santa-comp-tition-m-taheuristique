@@ -1,0 +1,3 @@
+Dans le code vous avez utilisé le récuit simulé deux fois en changeant les paramètres. Vous devez utiliser une métaheuristique à population de solutions 
+avec une méthode de recherche locale (récuit simulé ou autre).
+Les résultats doivent être améliorés. Comparez vous avec ceux de la compétition.
